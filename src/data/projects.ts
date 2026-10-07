@@ -28,17 +28,17 @@ export type Project = {
 
 export const PROJECTS: Project[] = [
   {
-    slug: "mentify-ai",
+    slug: "network-commerce-platform",
     index: "01",
-    title: "Mentify AI",
-    subtitle: "Multi-Level Business Platform",
+    title: "Network Commerce Platform",
+    subtitle: "Multi-Level Business · Digital Guides",
     short: "A platform for digital guide purchases, network building and online payments.",
     role: "Frontend · Product Development",
     meta: "Payments",
     year: "2025",
     stack: ["React", "Paymob", "REST APIs"],
     intro: [
-      "Mentify AI is a multi-level network business platform built around digital guide purchases and member-driven networks.",
+      "A multi-level network business platform built around digital guide purchases and member-driven networks.",
       "I focused on the React frontend and product experience, creating interfaces that allow members to purchase guides and build their own network.",
       "Paymob was integrated to provide a smooth online payment experience for guide purchases.",
     ],
@@ -52,10 +52,10 @@ export const PROJECTS: Project[] = [
     gallery: 4,
   },
   {
-    slug: "kalaax",
+    slug: "automotive-marketplace",
     index: "02",
-    title: "Kalaax",
-    subtitle: "Automotive Marketplace · Egypt",
+    title: "Automotive Marketplace",
+    subtitle: "E-Commerce · Egypt",
     short:
       "A full-stack automotive marketplace with 5,000+ product uploads, automated shipping, multi-payment support and live tracking.",
     role: "Full-Stack · Frontend Lead",
@@ -63,7 +63,7 @@ export const PROJECTS: Project[] = [
     year: "2026",
     stack: ["Next.js", "React", "FastAPI", "PostgreSQL", "Bosta", "Paymob", "CoinPayments"],
     intro: [
-      "Kalaax is an automotive marketplace built for the Egyptian market, connecting buyers and sellers through separate, purpose-built portals.",
+      "An automotive marketplace built for the Egyptian market, connecting buyers and sellers through separate, purpose-built portals.",
       "I worked across the frontend and product implementation, building the marketplace experience in Next.js and helping lead a team of 3 frontend developers.",
       "The platform supports 5,000+ product bulk uploads, automated shipping and tracking through Bosta, and payments through Paymob and CoinPayments. It also includes live order tracking and a full Arabic RTL experience.",
     ],

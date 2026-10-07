@@ -4,9 +4,9 @@ Each project has its own folder, named after its `slug` in `src/data/projects.ts
 
 ```
 public/projects/
-├── kalaax/
+├── automotive-marketplace/
 ├── ai-medical-practice/
-└── mentify-ai/
+└── network-commerce-platform/
 ```
 
 Inside each folder:

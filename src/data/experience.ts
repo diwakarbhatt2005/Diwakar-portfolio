@@ -24,7 +24,7 @@ export const EXPERIENCE: Experience[] = [
       "Built and shipped AI-powered and full-stack web products across healthcare, e-commerce, EdTech and hospitality, working with clients across India, Germany, Egypt and the UAE.",
     contributions: [
       "Built and contributed to 10+ AI-powered products across multiple industries.",
-      "Led frontend development for Mentify AI and Kalaax, while coordinating a team of 3 frontend developers.",
+      "Led frontend development for a multi-level commerce platform and an automotive marketplace, while coordinating a team of 3 frontend developers.",
       "Developed modern, responsive interfaces using React.js, Next.js and Tailwind CSS.",
       "Built backend services and APIs using Python, FastAPI, PostgreSQL and REST APIs.",
       "Integrated Paymob, Bosta, CoinPayments and WhatsApp Business API into production platforms.",
