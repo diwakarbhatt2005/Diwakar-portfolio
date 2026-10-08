@@ -10,7 +10,16 @@ import { Logo } from "@/components/Logo";
 // ✏️ HERO CONTENT
 const NAME_LINES = ["Diwakar", "Bhatt"];
 const TAGLINE = ["Websites, products & the craft in between.", "I take the details seriously."];
-const SKILLS = ["Frontend Development", "UI Design", "UX | Product", "Motion", "Next.js"];
+const SKILLS = [
+  "Frontend Development",
+  "UI Design",
+  "UX | Product",
+  "Motion",
+  "Next.js",
+  "AI Agents",
+  "LLMs & RAG",
+  "AI Automation",
+];
 const PHOTO = "/images/hero-portrait.jpg";
 
 // Pieces start hidden inline (no flash before JS) and GSAP takes over.
