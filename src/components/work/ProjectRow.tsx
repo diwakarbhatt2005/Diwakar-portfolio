@@ -65,7 +65,7 @@ export function ProjectRow({ project, active, onActivate, rowRef, index }: Props
           {/* Index + title */}
           <div className="flex items-start gap-3 lg:col-span-5 lg:col-start-1 lg:row-start-1">
             <span className="pt-1.5 text-[12px] text-grey tabular-nums">{project.index}</span>
-            <h3 className="font-display text-[clamp(34px,9vw,45px)] leading-none font-medium tracking-[-0.02em] whitespace-nowrap text-ink transition-colors duration-500 lg:text-[clamp(30px,3.1vw,45px)] lg:text-grey lg:group-data-[active=true]:text-accent">
+            <h3 className="min-w-0 font-display text-[clamp(34px,9vw,45px)] leading-[1.05] font-medium tracking-[-0.02em] text-balance text-ink transition-colors duration-500 lg:text-[clamp(24px,2.3vw,45px)] lg:leading-none lg:whitespace-nowrap lg:text-grey lg:group-data-[active=true]:text-accent">
               {project.title}
             </h3>
           </div>
